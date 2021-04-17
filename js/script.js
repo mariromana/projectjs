@@ -1,16 +1,3 @@
 "use strict";
 
-let incr = 10,
-    decr = 10;
-
-incr++;
-decr--;
-console.log(decr);
-
-console.log(5%2);
-
-
-const isChecked = false,
-       isClose = false;
-console.log(isChecked || isClose);
 
